@@ -24,4 +24,4 @@ docker ps
 docker ps -accept
 
 #### Acompanhar logs do container em execução
-docker logs -f <container-id>
+docker logs -f <container-id># ms-course-configs
